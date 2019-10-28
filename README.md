@@ -1,6 +1,7 @@
 # Description
 
-Get annual primary productivity mg C m<sup>-2</sup> yr<sup>-1</sup>
+Get annual primary productivity in mmol C m<sup>-2</sup> yr<sup>-1</sup> 
+or in mg C m<sup>-2</sup> yr<sup>-1</sup>
 from latitude, longitude and year.
 Annual primary productivity is computed from  data automatically downloaded from http://orca.science.oregonstate.edu/1080.by.2160.monthly.hdf.vgpm.m.chl.m.sst.php.
 This input data was produced with the VGPM algorithm of Behrenfeld, MJ, PG Falkowski:  Photosynthetic rates derived from satellite-based chlorophyll concentration, Limnology and Oceanography, 42, 1-20, 1997.
